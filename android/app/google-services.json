@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "852784146680",
+    "project_id": "flash-chat-tarun",
+    "storage_bucket": "flash-chat-tarun.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:852784146680:android:587bb4311cfe3659ef330d",
+        "android_client_info": {
+          "package_name": "com.example.flash_chat_tarun_three"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "852784146680-tic2e13ppgjuqlc314bg5tij6vvmadh5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDbVvVnQ24wIOpRdfgw8EkSzuPBBZ821CA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "852784146680-tic2e13ppgjuqlc314bg5tij6vvmadh5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
